@@ -1,0 +1,15 @@
+.idea/
+Flask_UI/sample-programs-demos/python/img/faces/scraped-faces/*.jpg
+Flask_UI/__pycache__/*.pyc
+Flask_UI/database/__pycache__/*.pyc
+Flask_UI/media_player/__pycache__/*.pyc
+Flask_UI/pyimagesearch/__pycache__/*.pyc
+Flask_UI/pyimagesearch/motion_detection/__pycache__/*.pyc
+Flask_UI/templates/__pycache__/*.pyc
+*.pyc
+<<<<<<< HEAD
+Flask_UI/appconfig.py
+||||||| dc89c2c
+=======
+FLASK_UI/.vscode
+>>>>>>> f639855f143d5a4540757cb351a57baba6374c15
